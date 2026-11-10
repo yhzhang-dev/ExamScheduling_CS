@@ -1,0 +1,60 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时目录
+.tmp/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Node / 前端
+node_modules/
+dist/
+.pnpm-store/
+
+# Java（若后端改用 JVM 技术栈）
+target/
+*.class
+
+# 环境与密钥
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 日志与运行时产物
+*.log
+/uploads/
+
+# 数据库备份（体积大，只在本地保留）
+database/backup/*
+!database/backup/.gitkeep
+
+# 实验原始结果与日志（可复现即可重建）
+experiments/results/raw/*
+!experiments/results/raw/.gitkeep
+experiments/logs/*
+!experiments/logs/.gitkeep
+
+# 论文文献原文（版权原因，仅本地保留）
+thesis/references/pdfs/*.pdf
+
+# 论文中间产物
+~$*
+*.tmp.docx
