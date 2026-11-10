@@ -1,6 +1,6 @@
 # 致谢 / Contributors
 
-ExamScheduling_CS（基于贪心、遗传与模拟退火混合算法的高校排课系统）由以下成员共同实现。
+ExamScheduling_CS（基于遗传算法的高校排课系统）由以下成员共同实现。
 
 ## 作者
 
