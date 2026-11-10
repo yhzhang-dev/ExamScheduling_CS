@@ -14,3 +14,7 @@ ExamScheduling_CS（基于约束满足的高校考场编排与监考分配系统
 
 - GitHub：[@deepsea-whale](https://github.com/deepsea-whale)（`deepsea.whale@qq.com`）
 - 此后本项目所有提交均附带 `Co-authored-by: DeepSea（小鲸） <deepsea.whale@qq.com>` 署名。
+
+**ChatGPT（OpenAI）**
+
+协助维护项目文档；具体贡献以相关提交记录为准。
