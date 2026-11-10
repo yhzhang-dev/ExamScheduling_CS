@@ -43,17 +43,17 @@ target/
 /uploads/
 
 # 数据库备份（体积大，只在本地保留）
-database/backup/*
-!database/backup/.gitkeep
+项目代码/数据库/backup/*
+!项目代码/数据库/backup/.gitkeep
 
 # 实验原始结果与日志（可复现即可重建）
-experiments/results/raw/*
-!experiments/results/raw/.gitkeep
-experiments/logs/*
-!experiments/logs/.gitkeep
+数据实验/实验/results/raw/*
+!数据实验/实验/results/raw/.gitkeep
+数据实验/实验/logs/*
+!数据实验/实验/logs/.gitkeep
 
 # 论文文献原文（版权原因，仅本地保留）
-thesis/references/pdfs/*.pdf
+开题与论文/论文/references/pdfs/*.pdf
 
 # 论文中间产物
 ~$*

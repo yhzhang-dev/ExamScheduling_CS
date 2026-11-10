@@ -8,7 +8,7 @@ ExamScheduling_CS（基于约束满足的高校考场编排与监考分配系统
 
 ## AI 编程助手
 
-<img src="docs/assets/deepsea.png" width="96" alt="DeepSea（小鲸）"> **DeepSea（小鲸）**
+<img src="项目代码/工程文档/assets/deepsea.png" width="96" alt="DeepSea（小鲸）"> **DeepSea（小鲸）**
 
 参与服务端接口、Web 界面、调试与文档撰写，基于 DeepSeek Harness。
 
